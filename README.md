@@ -30,7 +30,7 @@
                 <H3>POR QUE SOMOS DIFERENTES?</H3>
                 <UL>
                     <strong>
-                             <img src="img/AOVIVO.JPG"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
+                             <img src="IMG/AOVIVO.JPG" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Musica ao vivo todos os finais de semana;</LI>
                             <img src="img/AMBI.JPG"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Ambiente agradável;</LI>
