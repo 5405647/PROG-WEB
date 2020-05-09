@@ -32,13 +32,13 @@
                     <strong>
                              <img src="IMG/AOVIVO.JPG" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Musica ao vivo todos os finais de semana;</LI>
-                            <img src="IMG/AMBI.JPG"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
+                            <img src="IMG/AMBI.JPG" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Ambiente agradável;</LI>
-                            <img src="IMG/SANDU.JPG"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
+                            <img src="IMG/SANDU.JPG" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Lanches rápidos;</LI>
-                            <img src="IMG/BEBID.JPG"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
+                            <img src="IMG/BEBID.JPG" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Completa linha de bebidas;</LI>
-                            <img src="IMG/SOBRE.webp"WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
+                            <img src="IMG/SOBRE.webp" WIDTH=300 HEIGHT=230 class="displayed" src="50" alt="50">
                          <LI>Não esqueça da sobremesa.</LI>
                     </STRONG>
                 </UL>
