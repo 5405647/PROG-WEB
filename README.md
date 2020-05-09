@@ -14,8 +14,7 @@
                 width: 100%;
                 height: 100%;
                 }
-            </style>
-
+            </style>            
             <BODY>
                 <HEADER>
                      <H1>FAST FOOD FITNESS</H1>
@@ -28,7 +27,6 @@
                 </HEADER>
                 <div class="TEXTO">
                 <H3>Passe bons momentos com seus amigos, ou com aquela pessoa especial em sua vida, na <EM><strong>FAST FOOD FITNESS</strong></EM>.</H3>
-
                 <H3>POR QUE SOMOS DIFERENTES?</H3>
                 <UL>
                     <strong>
@@ -44,18 +42,13 @@
                          <LI>Não esqueça da sobremesa.</LI>
                     </STRONG>
                 </UL>
-
                 <H3>OFERTAS:</H3>
-                <UL>
-                
+                <UL>               
                         <LI>NAS COMPRAS ACIMA DE R$50,00; GANHE FRETE GRÁTIS;</LI>
                         <LI>PROMOÇÃO LEVE 3, NA COMPRA DE DOIS SANDUICHES, O TERCEIRO É POR NOSSA CONTA;</LI>
-                        <LI>BAIXE NOSSO APLICATIVO E GANHE ATÉ 10% DE DESCONTO.</LI>
-                    
+                        <LI>BAIXE NOSSO APLICATIVO E GANHE ATÉ 10% DE DESCONTO.</LI>                    
                 </UL>
-
                 <H3>NÃO ACREDITO QUE VOCÊ VAI FICAR FORA DESSA!</H3>
-
                 <P>Confira também nossas ofertas diárias, venha nos visitar. Estamos no primeiro andar do Caxias Shopping.<br> Venha nos conhecer, para maiores informações ligue: (21) 2121-2121</P>
                 </div>
                 <HR>
